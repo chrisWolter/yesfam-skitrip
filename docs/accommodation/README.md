@@ -19,3 +19,6 @@ But to have a better idea how those accomodations look like, here are some of th
 ![Pitztal](https://www.frosch-ferienhaus.de/fileadmin/images/ffh/WA14010B.jpg "Pitztal")
 ![Pitztal](https://www.frosch-ferienhaus.de/fileadmin/images/ffh/WA14010i4.jpg "Pitztal")
 ![Pitztal](https://www.frosch-ferienhaus.de/fileadmin/images/ffh/WA14010i13.jpg "Pitztal")
+
+###### Notice
+We are in close contact with the owners of the houses, so if you have any question, feel free to ask us directly or in the whatsapp group and we will help you :)
