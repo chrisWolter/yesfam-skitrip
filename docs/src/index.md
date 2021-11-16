@@ -2,7 +2,7 @@
 home: true
 heroImage: https://v1.vuepress.vuejs.org/hero.png
 tagline: The current status and information about the ski-trip.
-actionText: Quick Start →
+actionText: Signup Form →
 actionLink: /guide/
 features:
 - title: Feature 1 Title
