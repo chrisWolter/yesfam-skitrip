@@ -1,5 +1,5 @@
 # The skiarea.
-We dont have a skiarea at the moment, because we don't have a accommodation. As soon as we have an accommodation this site will be updated with the details of the skiarea. \
+We dont have a skiarea at the moment, because we don't have an accommodation. As soon as we have an accommodation this site will be updated with the details of the skiarea. \
 The accommodations that we currently have are in the following skiareas.
 
 ### 4 Vallees, Switzerland

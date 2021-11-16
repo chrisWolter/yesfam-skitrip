@@ -1,6 +1,6 @@
 # Accommodations
-We currently don't have a fixed accommodation, but we have some reservated. The Accommodation will be booked as soon as the signup is finished and we have an exact number of participants. \
-But to have a better idea how those accomodations look like, here are some of them:
+We currently don't have a fixed accommodation, but we have some reservated. The accommodation will be booked as soon as the signup is finished and we have an exact number of participants. \
+But to have a better idea how the accomodations look like, here are some of them:
 
 ## Accommodation 1
 ### 4 Vallees, Switzerland
@@ -21,4 +21,4 @@ But to have a better idea how those accomodations look like, here are some of th
 ![Pitztal](https://www.frosch-ferienhaus.de/fileadmin/images/ffh/WA14010i13.jpg "Pitztal")
 
 #### Notice
-We are in close contact with the owners of the houses, so if you have any question, feel free to ask us directly or in the whatsapp group and we will help you :)
+We are in close contact with the owners of the accommodations, so if you have any question, feel free to ask us directly or in the whatsapp group and we will help you 😊

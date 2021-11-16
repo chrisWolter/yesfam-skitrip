@@ -27,6 +27,7 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
+    logo: 'https://yestheory.com/wp-content/themes/prop/images/Final-Yes-Theory-Logo.png',
     repo: '',
     editLinks: false,
     docsDir: '',
