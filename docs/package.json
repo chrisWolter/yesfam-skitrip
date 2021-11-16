@@ -1,0 +1,19 @@
+{
+  "name": "yesfam-skitrip",
+  "version": "0.0.1",
+  "description": "The current status and information about the ski-trip.",
+  "main": "index.js",
+  "authors": {
+    "name": "Chris",
+    "email": "kontakt@chris-wolter.de"
+  },
+  "repository": "https://github.com/chrisWolter/yesfam-skitrip.git",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
