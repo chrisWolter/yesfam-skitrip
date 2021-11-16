@@ -50,6 +50,7 @@ module.exports = {
         link: 'https://forms.gle/wW3zqq3KjP1FDMuc6'
       }
     ],
+    search: false,
   },
 
   /**

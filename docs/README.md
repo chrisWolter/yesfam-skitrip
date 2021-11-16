@@ -12,12 +12,13 @@ features:
   details: We have some accommodations reservated in the Swiss and Austrian Alps. More Information about the exact accommodation are coming as soon as the signup is finished
 - title: Cost
   details: We calculate with around ~600€. For more information see the cost section.
-footer: Made by Chris with ❤️
+footer: Made by Chris for the most awesome skitrip with ❤️
 ---
 
 # Current Information
-**When:** 05.03.2022 - 12.03.2022 \
-**Where:** Accommodation will be shared as soon as everyone signed up. For more information see [accommodation](/accommodation/)
+**When:** 05th of March 2022 - 12th of March 2022 \
+**Where:** Accommodation will be shared as soon as everyone signed up. For more information see [accommodation](/accommodation/) and [skiareas](/skiarea/)
+**Organizer:** You can find information and contact details about the organizers here: [Oragnizers](/organizers/)
 \
 \
 **SIGNUP IS CLOSING ON THE 26TH OF NOVEMBER!**
