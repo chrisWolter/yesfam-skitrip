@@ -2,14 +2,14 @@
 home: true
 heroImage: https://yestheory.com/wp-content/themes/prop/images/Final-Yes-Theory-Logo.png
 title: Welcome to the yesfam ski-trip!
-tagline: Welcome to the yesfam ski-trip! On this page you can find the current status and all the information about the ski-trip. The Signup will close on the 26th of November 2021!
+tagline: Welcome to the yesfam ski-trip! On this page you can find the current status and all the information about the ski-trip. The Signup for the trip will close on the 26th of November 2021!
 actionText: Signup Form →
 actionLink: https://forms.gle/wW3zqq3KjP1FDMuc6
 features:
 - title: When?
   details: 05th of March 2022 - 12th of March 2022
 - title: Where?
-  details: We have some accommodations reservated in the Swiss and Austrian Alps. More Information about the exact accommodation are coming as soon as the signup is finished
+  details: We have some accommodations reservated in the Swiss and Austrian Alps. More Information about the exact accommodation are coming as soon as the signup is finished. For more information you can also look in the accommodation section.
 - title: Cost
   details: We calculate with around ~600€. For more information see the cost section.
 footer: Made by Chris with ❤️ for the most awesome skitrip
@@ -18,9 +18,12 @@ footer: Made by Chris with ❤️ for the most awesome skitrip
 # Current Information
 **When:** 05th of March 2022 - 12th of March 2022 \
 **Where:** Accommodation will be shared as soon as everyone signed up. For more information see [accommodation](/accommodation/) and [skiareas](/skiarea/) \
+**Number of Attendees:** Our planned Accommodation have space for 30-60 people, so be fast. (First come, first serve) \
 **Organizer:** You can find information and contact details about the organizers here: [Oragnizers](/organizers/) \
-**Whatsapp Group:** [Click here](https://chat.whatsapp.com/I1snqCa6e33330ESArl7Yb) \
-\
+**Whatsapp Group:** [Click here](https://chat.whatsapp.com/I1snqCa6e33330ESArl7Yb) 
+
+<span style="color:red">**Please be aware that you can only come on this trip if you are recovered from covid-19 (you must be recovered during the time of the trip) or are vaccinated. (2G)**</span>
+
 **SIGNUP IS CLOSING ON THE 26TH OF NOVEMBER!**
 
 # Status
@@ -51,9 +54,10 @@ Activity planning: starts soon
 \
 **food:** We will cook ourselve, so the cost for food will not be that high. \
 \
-We try to make this trip as cheap as possible. So the more people are coming the cheaper it gets for everyone.
+Our goal is, that this trip will be as cheap as possible. \
+Those costs are just rough calculations and can vary. We will update you on exact prices, when we have the number of attendees and the accommodation.
 
-*Discalimer: There will be additional costs like your travel, rental (if you need), or if you go to restaurants. But we cant display those cost because the vary to much* 
+*Discalimer: There will be additional costs like your travel, equipment-rental (if you need), ski course or if you go to a restaurant or après ski. We can't display those costs, because they depending to much on each person* 
 
 # Payment Information
 **Name:** Frederike Claus \
