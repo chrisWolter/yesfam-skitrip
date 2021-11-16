@@ -14,6 +14,10 @@ export const themeData = {
       "link": "/skiarea/"
     },
     {
+      "text": "Cost",
+      "link": "/#cost"
+    },
+    {
       "text": "SignUp",
       "link": "https://forms.gle/wW3zqq3KjP1FDMuc6"
     }
