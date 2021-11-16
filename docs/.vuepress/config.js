@@ -34,8 +34,12 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
+        text: 'Organizers',
+        link: '/organizers/'
+      },
+      {
         text: 'Accommodation',
-        link: '/#accommodation',
+        link: '/accommodation/',
       },
       {
         text: 'Skiarea',
@@ -46,18 +50,6 @@ module.exports = {
         link: 'https://forms.gle/wW3zqq3KjP1FDMuc6'
       }
     ],
-    sidebar: {
-      '/guide/': [
-        {
-          title: 'Guide',
-          collapsable: false,
-          children: [
-            '',
-            'using-vue',
-          ]
-        }
-      ],
-    }
   },
 
   /**

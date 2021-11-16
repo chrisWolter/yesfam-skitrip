@@ -17,7 +17,10 @@ footer: Made by Chris with ❤️
 
 # Current Information
 **When:** 05.03.2022 - 12.03.2022 \
-**Where:** Accommodation will be shared as soon as everyone signed up. For more inforamtaion see [accommodation](/#accommodation)
+**Where:** Accommodation will be shared as soon as everyone signed up. For more information see [accommodation](/accommodation/)
+\
+\
+**SIGNUP IS CLOSING ON THE 26TH OF NOVEMBER!**
 
 # Status
 **Current Status:** \
@@ -50,19 +53,6 @@ Activity planning: starts soon
 We try to make this trip as cheap as possible. So the more people are coming the cheaper it gets for everyone.
 
 *Discalimer: There will be additional costs like your travel, rental (if you need), or if you go to restaurants. But we cant display those cost because the vary to much* 
-
-# Accommodation
-Here is some test text
-
-# Organizers
-### Chris
-Hey, I'm Chris. A 22 years old computer science expert from southern germany. I really love snowboarding and I'm hyped to organize and go on this awesome trip with you guys. \
-\
-**Phone:** +49 1522 2300 459
-### Freddy
-**Phone:** +49 179 4684 728 \
-### Joshua
-**Phone:** +49 1575 8921 332
 
 # Payment Information
 **Name:** Frederike Claus \
