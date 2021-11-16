@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Welcome to the yesfam ski-trip!',
+  title: 'The yesfam ski-trip!',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -16,7 +16,7 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/config/#head
    */
   head: [
-    ['meta', { name: 'theme-color', content: '#3eaf7c' }],
+    ['meta', { name: 'theme-color', content: '#1a6eff' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
   ],
@@ -34,16 +34,16 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Guide',
-        link: '/guide/',
+        text: 'Accommodation',
+        link: '/#accommodation',
       },
       {
-        text: 'Config',
-        link: '/config/'
+        text: 'Skiarea',
+        link: '/skiarea/'
       },
       {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
+        text: 'SignUp',
+        link: 'https://forms.gle/wW3zqq3KjP1FDMuc6'
       }
     ],
     sidebar: {
