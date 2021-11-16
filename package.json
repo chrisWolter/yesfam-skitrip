@@ -1,6 +1,6 @@
 {
   "name": "yesfam-skitrip",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "The current status and information about the ski-trip.",
   "main": "index.js",
   "authors": {
@@ -9,12 +9,12 @@
   },
   "repository": "https://github.com/chrisWolter/yesfam-skitrip.git",
   "scripts": {
-    "dev": "vuepress dev src",
-    "build": "vuepress build src",
-    "docs:build": "vuepress build"
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "docs:build": "vuepress build docs"
   },
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^1.5.3"
+    "vuepress": "^2.0.0-beta.25"
   }
 }
