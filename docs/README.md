@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://yestheory.com/wp-content/themes/prop/images/Final-Yes-Theory-Logo.png
+heroImage: '/images/logo.png'
 title: Welcome to the yesfam ski-trip!
 tagline: Welcome to the yesfam ski-trip! On this page you can find the current status and all the information about the ski-trip. The Signup for the trip will close on the 26th of November 2021!
 actionText: Signup Form →
