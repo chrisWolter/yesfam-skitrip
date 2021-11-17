@@ -22,7 +22,7 @@ footer: Made by Chris with ❤️ for the most awesome skitrip and the best comm
 **Organizer:** You can find information and contact details about the organizers here: [organizers](/organizers/) \
 **Whatsapp Group:** If you have any questions feel free to ask them in the group. [Join here](https://chat.whatsapp.com/I1snqCa6e33330ESArl7Yb)
 
-<span style="color:red">**Please be aware that you can only come on this trip if you are recovered from covid-19 (you must be recovered during the time of the trip) or are vaccinated. (2G)**</span>
+<span style="color:red">**Please be aware that you can only come on this trip if you are recovered from covid-19 (you must be recovered during the time of the trip) or are vaccinated. Every vaccine is valid 360 days starting the day of the second dose, except for johsons & johnson (270 days). If your j&j dose was before the 15th of Juni 2021 you need a booster shot till the trip!**</span>
 
 **SIGNUP IS CLOSING ON THE 26TH OF NOVEMBER!**
 
