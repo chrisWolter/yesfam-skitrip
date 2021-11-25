@@ -2,60 +2,62 @@
 home: true
 heroImage: '/images/logo.png'
 title: Welcome to the yesfam ski-trip!
-tagline: Welcome to the yesfam ski-trip! On this page you can find the current status and all the information about the ski-trip. The Signup for the trip will close on the 26th of November 2021!
+tagline: Welcome to the yesfam ski-trip! On this page you can find the current status and all the information about the ski-trip. The Signup for the trip will close on the 09th of Januray 2022!
 actionText: Signup Form →
 actionLink: https://forms.gle/wW3zqq3KjP1FDMuc6
 features:
 - title: When?
   details: 05th of March 2022 - 12th of March 2022
 - title: Where?
-  details: We have some accommodations reservated in the Swiss and Austrian Alps. More information about the exact accommodation are coming as soon as the signup is finished. For more information you can also look in the accommodation section.
+  details: Saas-Fee, Switzerland.
 - title: Cost
-  details: We calculate with around ~600€. For more information see the cost section.
+  details: We calculate with around ~650€. For more information see the cost section.
 footer: Made by Chris with ❤️ for the most awesome skitrip and the best community
 ---
 
 # Important Information
 **When:** 05th of March 2022 - 12th of March 2022 \
-**Where:** Accommodation will be shared as soon as everyone signed up. For more information see [accommodation](/accommodation/) and [skiareas](/skiarea/) \
-**Number of Attendees:** Our planned accommodations have space for 30-60 people, so be fast. (First come, first serve) \
+**Where:** Saas-Fee, Switzerland. For more information see [accommodation](/accommodation/) and [skiareas](/skiarea/) \
+**Number of Attendees:** Our accommodation has space for 20-56 people, so be fast. (First come, first serve) \
 **Organizer:** You can find information and contact details about the organizers here: [organizers](/organizers/) \
 **Whatsapp Group:** If you have any questions feel free to ask them in the group. [Join here](https://chat.whatsapp.com/I1snqCa6e33330ESArl7Yb)
 
 <span style="color:red">**Please be aware that you can only come on this trip if you are recovered from covid-19 (you must be recovered during the time of the trip) or are vaccinated. Every vaccine is valid 360 days starting the day of the second dose, except for johsons & johnson (270 days). If your j&j dose was before the 15th of Juni 2021 you need a booster shot till the trip!**</span>
 
-**SIGNUP IS CLOSING ON THE 26TH OF NOVEMBER!**
+**SIGNUP IS CLOSING ON THE 09TH OF JANUARY 2022!**
 
 # Status
 <span style="color:green">**Current Status:**</span> \
-Waiting for everyone to sign up
-\
-\
-<span style="color:orange">**Next Step:**</span> \
 Book the accommodation
 \
 \
+<span style="color:orange">**Next Step:**</span> \
+Travel planning
+\
+\
 <span style="color:#1a6eff">**To-dos:**</span> \
-Travel planning: starts soon \
 Food planning: starts soon \
-Activity planning: starts soon
+Cooking groups : starts soon \
+Activity planning: starts soon \
+Rental planning: starts soon
+
 
 # Cost
 
 | Description | approx. cost (per Person) |
 | ----------- | ----------- |
-| Accommodation | max. 200€ |
-| Skipass | ~300€  |
+| Accommodation | 170€ p.P. (with 30 People) |
+| Skipass | ~330€ |
 | Food | ~100€ |
 
-**accommodation:** The cost of the accommodation depends on how many people are coming and where we are going. We set a max amount of 200€ per Person for the whole week. \
+**accommodation:** The cost of the accommodation depends on how many people are attending. The accommodation costs ~4.900€ for the whole week. For 30 People it would be ~170€ per person for the whole week. \
 \
-**skipass:** The cost of the skipass depends on the skiarea. But it will be somewhere around 300€ for a six day skipass. We try to organise a group discount so it will hopefully get cheaper. It will of course be cheaper for you if you don't get a six day skipass and ride less days. \
+**skipass:** The cost of the skipass is about 330€ (with group discount) for a six day destination skipass (including the ski areas Saas-Fee, Saas-Almagell, Saas-Grund and Saas-Balen). There are negotiations from our accommodation, so maybe we will get a bigger discount. It will of course be cheaper for you if you don't get a six day skipass and ride less days or if you take another pass with less ski areas in it. \
 \
 **food:** We will cook ourselve, so the cost for food will not be that high. \
 \
 Our goal is that this trip will be as cheap as possible. \
-Those costs are just rough calculations and can vary. We will update you on exact prices, when we have the number of attendees and the accommodation.
+Those costs are rough calculations and can vary. We will update you on more exact prices, when we have the number of attendees and the accommodation.
 
 *Discalimer: There will be additional costs like your travel, equipment-rental (if needed), ski course or if you go to a restaurant or après ski. We can't display those costs, because they depending to much on each person* 
 
