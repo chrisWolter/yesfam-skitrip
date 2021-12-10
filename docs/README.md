@@ -7,7 +7,7 @@ actionText: Signup Form →
 actionLink: https://forms.gle/wW3zqq3KjP1FDMuc6
 features:
 - title: When?
-  details: 05th of March 2022 - 12th of March 2022
+  details: 05th - 12th of March 2022
 - title: Where?
   details: Saas-Fee, Switzerland.
 - title: Cost
@@ -16,13 +16,13 @@ footer: Made by Chris with ❤️ for the most awesome skitrip and the best comm
 ---
 
 # Important Information
-**When:** 05th of March 2022 - 12th of March 2022 \
+**When:** 05th - 12th of March 2022 \
 **Where:** Saas-Fee, Switzerland. For more information see [accommodation](/accommodation/) and [skiareas](/skiarea/) \
 **Number of Attendees:** Our accommodation has space for 20-56 people, so be fast. (First come, first serve) \
 **Organizer:** You can find information and contact details about the organizers here: [organizers](/organizers/) \
 **Whatsapp Group:** If you have any questions feel free to ask them in the group. [Join here](https://chat.whatsapp.com/I1snqCa6e33330ESArl7Yb)
 
-<span style="color:red">**Please be aware that you can only come on this trip if you are recovered from covid-19 (you must be recovered during the time of the trip) or are vaccinated. Every vaccine is valid 360 days starting the day of the second dose, except for johsons & johnson (270 days). If your j&j dose was before the 15th of Juni 2021 you need a booster shot till the trip!**</span>
+<span style="color:red">**Please be aware that you can only come on this trip if you are vaccinated against covid19 with an vaccine that was approved by the swiss government or the EU. Every vaccine is 360 days valid starting the day of the second dose (01.12.2021). Please also be aware that you might have to get a PCR Test for traveling into Switzerland. We can't give you exact information about travel regulations, because they constantly change and they also depend on which country you are from.**</span>
 
 **SIGNUP IS CLOSING ON THE 09TH OF JANUARY 2022!**
 
