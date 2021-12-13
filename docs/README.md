@@ -9,7 +9,7 @@ features:
 - title: When?
   details: 05th - 12th of March 2022
 - title: Where?
-  details: Saas-Fee, Switzerland.
+  details: Saas-Grund, Switzerland.
 - title: Cost
   details: We calculate with around ~650€. For more information see the cost section.
 footer: Made by Chris with ❤️ for the most awesome skitrip and the best community
@@ -17,29 +17,30 @@ footer: Made by Chris with ❤️ for the most awesome skitrip and the best comm
 
 # Important Information
 **When:** 05th - 12th of March 2022 \
-**Where:** Saas-Fee, Switzerland. For more information see [accommodation](/accommodation/) and [skiareas](/skiarea/) \
+**Where:** Saas-Grund, Switzerland. For more information see [accommodation](/accommodation/) and [skiareas](/skiarea/) \
 **Number of Attendees:** Our accommodation has space for 20-56 people, so be fast. (First come, first serve) \
 **Organizer:** You can find information and contact details about the organizers here: [organizers](/organizers/) \
 **Whatsapp Group:** If you have any questions feel free to ask them in the group. [Join here](https://chat.whatsapp.com/I1snqCa6e33330ESArl7Yb)
 
-<span style="color:red">**Please be aware that you can only come on this trip if you are vaccinated against covid19 with an vaccine that was approved by the swiss government or the EU. Every vaccine is 360 days valid starting the day of the second dose (01.12.2021). Please also be aware that you might have to get a PCR Test for traveling into Switzerland. We can't give you exact information about travel regulations, because they constantly change and they also depend on which country you are from.**</span>
+<span style="color:red">**Please be aware that you can only come on this trip if you are vaccinated against covid-19 with an vaccine that was approved by the swiss government or the EU. Every vaccine is valid 360 days starting the day of the second dose (last update: 01.12.2021). Please also be aware that you might have to get a PCR Test for traveling into Switzerland. We can't give you exact information about travel regulations, because they constantly change and they also depend on which country you are from.**</span>
 
 **SIGNUP IS CLOSING ON THE 09TH OF JANUARY 2022!**
 
 # Status
 <span style="color:green">**Current Status:**</span> \
-Book the accommodation
-\
-\
-<span style="color:orange">**Next Step:**</span> \
 Travel planning
 \
 \
-<span style="color:#1a6eff">**To-dos:**</span> \
+<span style="color:orange">**Next Step:**</span> \
 Food planning: starts soon \
+\
+\
+<span style="color:#1a6eff">**To-dos:**</span> \
 Cooking groups : starts soon \
 Activity planning: starts soon \
-Rental planning: starts soon
+Rental planning: starts soon \
+Ski-lesson planning: starts soon \
+Skipass planning: start soon \
 
 
 # Cost
@@ -59,7 +60,13 @@ Rental planning: starts soon
 Our goal is that this trip will be as cheap as possible. \
 Those costs are rough calculations and can vary. We will update you on more exact prices, when we have the number of attendees and the accommodation.
 
-*Discalimer: There will be additional costs like your travel, equipment-rental (if needed), ski course or if you go to a restaurant or après ski. We can't display those costs, because they depending to much on each person* 
+*Discalimer: There will be additional costs like your travel, equipment-rental (if needed), ski course or if you go to a restaurant or après ski. We can't display those costs, because they depending to much on each person*
+
+# Travel information
+
+**By car:** We will see who is on a route so you can ride together or get picked up. \
+**By plane:** If you come by plane, pls choose one of the following airports: zurich, bern, basel. Depending on your arrival time you either get picked up by a person or you have to take the train to Saas-Grund from there. \
+**By train:** If you come by train, the station you have to go to is called Saas-Grund.
 
 # Payment Information
 **Name:** Frederike Claus \
@@ -71,4 +78,8 @@ Those costs are rough calculations and can vary. We will update you on more exac
 \
 --- \
 Bank Code: 11010101 \
-Account number: 5938355168 \
+Account number: 5938355168 
+
+## Final payment
+
+The final payment has to be done by the 26th of january.
