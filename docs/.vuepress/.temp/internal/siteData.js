@@ -1,8 +1,8 @@
 export const siteData = {
   "base": "/",
   "lang": "en-US",
-  "title": "The yesfam ski-trip!",
-  "description": "The current status and information about the ski-trip.",
+  "title": "The yesfam ski trip!",
+  "description": "The current status and information about the ski trip.",
   "head": [
     [
       "meta",

@@ -1,8 +1,8 @@
 ---
 home: true
 heroImage: '/images/logo.png'
-title: Welcome to the yesfam ski-trip!
-tagline: Welcome to the yesfam ski-trip! On this page you can find the current status and all the information about the ski-trip. The Signup for the trip will close on the 09th of Januray 2022!
+title: Welcome to the yesfam ski trip!
+tagline: Welcome to the yesfam ski trip! On this page you can find the current status and all the information about the ski trip. The Signup for the trip will close on the 09th of Januray 2022!
 actionText: Signup Form →
 actionLink: https://forms.gle/wW3zqq3KjP1FDMuc6
 features:
@@ -12,7 +12,7 @@ features:
   details: Saas-Grund, Switzerland.
 - title: Cost
   details: We calculate with around ~650€. For more information see the cost section.
-footer: Made by Chris with ❤️ for the most awesome skitrip and the best community
+footer: Made by Chris with ❤️ for the most awesome ski trip and the best community
 ---
 
 # Important Information
@@ -39,34 +39,35 @@ Food planning: starts soon \
 Cooking groups : starts soon \
 Activity planning: starts soon \
 Rental planning: starts soon \
-Ski-lesson planning: starts soon \
-Skipass planning: start soon \
-
+Ski lessons planning: starts soon \
+Ski pass planning: start soon
 
 # Cost
 
 | Description | approx. cost (per Person) |
 | ----------- | ----------- |
 | Accommodation | 170€ p.P. (with 30 People) |
-| Skipass | ~330€ |
+| Ski pass | ~330€ |
 | Food | ~100€ |
 
 **accommodation:** The cost of the accommodation depends on how many people are attending. The accommodation costs ~4.900€ for the whole week. For 30 People it would be ~170€ per person for the whole week. \
 \
-**skipass:** The cost of the skipass is about 330€ (with group discount) for a six day destination skipass (including the ski areas Saas-Fee, Saas-Almagell, Saas-Grund and Saas-Balen). There are negotiations from our accommodation, so maybe we will get a bigger discount. It will of course be cheaper for you if you don't get a six day skipass and ride less days or if you take another pass with less ski areas in it. \
+**ski pass:** The cost of the ski pass is about 330€ (with group discount) for a six day destination ski pass (including the ski areas Saas-Fee, Saas-Almagell, Saas-Grund and Saas-Balen). There are negotiations from our accommodation, so maybe we will get a bigger discount. It will of course be cheaper for you if you don't get a six day ski pass and ride less days or if you take another pass with less ski areas in it. \
 \
 **food:** We will cook ourselve, so the cost for food will not be that high. \
 \
 Our goal is that this trip will be as cheap as possible. \
 Those costs are rough calculations and can vary. We will update you on more exact prices, when we have the number of attendees and the accommodation.
 
-*Discalimer: There will be additional costs like your travel, equipment-rental (if needed), ski course or if you go to a restaurant or après ski. We can't display those costs, because they depending to much on each person*
+<span style="color:#F25C05"> *Disclaimer: There will be additional costs like your travel, equipment-rental (if needed), ski course or if you go to a restaurant or après ski. We can't display those costs, because they depending to much on each person* </span>
 
 # Travel information
 
-**By car:** We will see who is on a route so you can ride together or get picked up. \
-**By plane:** If you come by plane, pls choose one of the following airports: zurich, bern, basel. Depending on your arrival time you either get picked up by a person or you have to take the train to Saas-Grund from there. \
-**By train:** If you come by train, the station you have to go to is called Saas-Grund.
+**🚗 By car:** We will see who is on a route so you can ride together or get picked up. \
+\
+**✈ By plane:** If you come by plane, pls choose one of the following airports: zurich, bern, basel. Depending on your arrival time you either get picked up by a person or you have to take the train to Saas-Grund from there. \
+\
+**🚈 By train:** If you come by train, the station you have to go to is called Saas-Grund.
 
 # Payment Information
 **Name:** Frederike Claus \

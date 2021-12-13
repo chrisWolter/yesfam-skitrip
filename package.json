@@ -1,7 +1,7 @@
 {
-  "name": "yesfam-skitrip",
+  "name": "yesfam-ski-trip",
   "version": "1.0.0",
-  "description": "The current status and information about the ski-trip.",
+  "description": "The current status and information about the ski trip.",
   "main": "index.js",
   "authors": {
     "name": "Chris",

@@ -1,13 +1,13 @@
 export const data = {
   "key": "v-8daa1a0e",
   "path": "/",
-  "title": "Welcome to the yesfam ski-trip!",
+  "title": "Welcome to the yesfam ski trip!",
   "lang": "en-US",
   "frontmatter": {
     "home": true,
     "heroImage": "https://yestheory.com/wp-content/themes/prop/images/Final-Yes-Theory-Logo.png",
-    "title": "Welcome to the yesfam ski-trip!",
-    "tagline": "Welcome to the yesfam ski-trip! On this page you can find the current status and all the information about the ski-trip.",
+    "title": "Welcome to the yesfam ski trip!",
+    "tagline": "Welcome to the yesfam ski trip! On this page you can find the current status and all the information about the ski trip.",
     "actionText": "Signup Form →",
     "actionLink": "https://forms.gle/wW3zqq3KjP1FDMuc6",
     "features": [
