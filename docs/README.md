@@ -82,4 +82,4 @@ Account number: 5938355168
 
 ## Final payment
 
-The final payment has to be done by the 26th of january.
+The final payment has to be done by the 24th of january.
