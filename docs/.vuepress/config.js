@@ -34,6 +34,10 @@ module.exports = {
     editLinkText: '',
     lastUpdated: false,
     nav: [
+            {
+        text: 'Corona',
+        link: '/corona/'
+      },
       {
         text: 'Organizers',
         link: '/organizers/'
