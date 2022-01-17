@@ -24,7 +24,7 @@ footer: Made by Chris with ❤️ for the most awesome ski trip and the best com
 **When:** 05th - 12th of March 2022 \
 **Where:** Saas-Grund, Switzerland. For more information see [accommodation](/accommodation/) and [skiareas](/skiarea/) \
 **Number of Attendees:** 56 \
-**Organizer:** You can find information and contact details about the organizers here: [organizers](/organizers/) \
+**Organizer:** The trip is organised by members of the yesfam. You can find information and contact details about the organizers here: [organizers](/organizers/) \
 **Whatsapp Group:** If you have any questions feel free to ask them in the group. [Join here](https://chat.whatsapp.com/I1snqCa6e33330ESArl7Yb)
 
 # Status
