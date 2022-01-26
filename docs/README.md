@@ -27,6 +27,8 @@ footer: Made by Chris with ❤️ for the most awesome ski trip and the best com
 **Organizer:** The trip is organised by members of the yesfam. You can find information and contact details about the organizers here: [organizers](/organizers/) \
 **Whatsapp Group:** If you have any questions feel free to ask them in the group. [Join here](https://chat.whatsapp.com/I1snqCa6e33330ESArl7Yb)
 
+**Code of Conduct:** You can find our code of conduct here: [code of conduct](/code-of-conduct/)
+
 # Status
 
 <span style="color:green">**Current Status:**</span>
@@ -35,16 +37,16 @@ footer: Made by Chris with ❤️ for the most awesome ski trip and the best com
 - Rental planning
 - Ski lessons planning
 - Planning of the corona regulations in the accommodation
+- Activity planning
+- Cooking groups
 
 <span style="color:orange">**Next Step:**</span>
 
-- Cooking groups: starts soon
+- Packing list: information comes soon
 
 <span style="color:#1a6eff">**To-dos:**</span>
 
-- Activity planning: starts soon
 - Ski pass planning: start soon
-- Packing list: information comes soon
 
 <span style="color:purple">**Already Done:**</span>
 

@@ -38,6 +38,10 @@ module.exports = {
         text: 'Corona',
         link: '/corona/'
       },
+                  {
+        text: 'Code of Conduct',
+        link: '/code-of-conduct/'
+      },
       {
         text: 'Organizers',
         link: '/organizers/'
@@ -49,14 +53,6 @@ module.exports = {
       {
         text: 'Skiarea',
         link: '/skiarea/'
-      },
-      {
-        text: 'Cost',
-        link: '/#cost'
-      },
-      {
-        text: 'SignUp',
-        link: 'https://forms.gle/wW3zqq3KjP1FDMuc6'
       }
     ],
     search: false,
