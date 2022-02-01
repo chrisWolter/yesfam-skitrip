@@ -5,7 +5,7 @@ Here we will provide information about corona and the regulations in switzerland
 <span style="color:red">For our all safety we encourage you to do at least one POC test:</span>
 
 - 5 days before the trip
-- the day before the trip (you need this test to enter switzerland)
+- the day before the trip (you need this test to enter the accommodation and probably to enter switzerland)
 - during the trip
 - one week after the trip
 
@@ -34,7 +34,7 @@ Also don't forget to check what you have to do if you are going back home. In so
 Currently all Vaccines that are approved by the swiss government or european union are valid 365 days from when the last vaccine dose was administered. he certificates from EU/EFTA states, Andorra, Armenia, the Faroe Islands, Georgia, Monaco, New Zealand, Serbia, Singapore, Turkey, Ukraine, the United Kingdom and recognised third countries that are connected to the EU system, are also recognised. If you have a different certificate you have to change it to a swiss one before you arrive. We will provide assistance in that case if you need. \
 [More information](https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/covid-zertifikat/covid-zertifikat-erhalt-gueltigkeit.html)
 
-As far as we know we can get tested for free POC in the Saas-Valley.
+As far as we know we can get a free POC test in the Saas-Valley.
 
 # Important Links
 
