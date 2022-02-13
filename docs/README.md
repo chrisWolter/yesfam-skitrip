@@ -33,16 +33,11 @@ footer: Made by Chris with ❤️ for the most awesome ski trip and the best com
 
 <span style="color:green">**Current Status:**</span>
 
-- Food planning
 - Rental planning
-- Ski lessons planning
 - Planning of the corona regulations in the accommodation
-- Activity planning
-- Cooking groups
+- creation of the packing list
 
 <span style="color:orange">**Next Step:**</span>
-
-- Packing list: information comes soon
 
 <span style="color:#1a6eff">**To-dos:**</span>
 
@@ -53,6 +48,10 @@ footer: Made by Chris with ❤️ for the most awesome ski trip and the best com
 - Advertising
 - Book the Accommodation
 - Travel planning
+- Food planning
+- Ski lessons planning
+- Activity planning
+- Cooking groups
 
 # Travel information
 
@@ -67,11 +66,11 @@ footer: Made by Chris with ❤️ for the most awesome ski trip and the best com
 | Date            | Day Activity         | Evening Activity     | Fixed appointments | Notes                                                                   |
 | --------------- | -------------------- | -------------------- | ------------------ | ----------------------------------------------------------------------- |
 | Sat, 05.03.2022 | Travel and Arrival   |                      |                    | The accommodation opens at around 4pm                                   |
-| Sun, 06.03.2022 | Liftpass Day 1       |                      |                    |                                                                         |
-| Mon, 07.03.2022 | Liftpass Day 2       |                      |                    |                                                                         |
-| Tue, 08.03.2022 | Liftpass Day 3       |                      |                    |                                                                         |
-| Wed, 09.03.2022 | Liftpass Day 4       |                      |                    | The 4 day pass will expire today                                        |
-| Thu, 10.03.2022 | Liftpass Day 5       |                      |                    | The 5 day pass will expire today                                        |
+| Sun, 06.03.2022 | Liftpass Day 1       |Apres Ski                      |                    |                                                                         |
+| Mon, 07.03.2022 | Liftpass Day 2       |    Game Night                  |                    |                                                                         |
+| Tue, 08.03.2022 | Liftpass Day 3       |     Quiz Night                 |                    |                                                                         |
+| Wed, 09.03.2022 | Liftpass Day 4       |     Dance Night                 |                    | The 4 day pass will expire today                                        |
+| Thu, 10.03.2022 | Liftpass Day 5       |  Party Night                    |                    | The 5 day pass will expire today                                        |
 | Fri, 11.03.2022 | Liftpass Day 6       | Cleaning and packing |                    |                                                                         |
 | Sat, 12.03.2022 | Departure and Travel |                      |                    | We have to leave the Accommodation at 10am and it has to be swept clean |
 
@@ -79,14 +78,14 @@ footer: Made by Chris with ❤️ for the most awesome ski trip and the best com
 
 | Date            | Morning | Evening | Cooking Group |
 | --------------- | ------- | ------- | ------------- |
-| Sat, 05.03.2022 | x       | x       | TBA           |
-| Sun, 06.03.2022 |         |         | TBA           |
-| Mon, 07.03.2022 |         |         | TBA           |
-| Tue, 08.03.2022 |         |         | TBA           |
-| Wed, 09.03.2022 |         |         | TBA           |
-| Thu, 10.03.2022 |         |         | TBA           |
-| Fri, 11.03.2022 |         |         | TBA           |
-| Sat, 12.03.2022 |         | x       | TBA           |
+| Sat, 05.03.2022 | x       | (Pasta)       | TBA           |
+| Sun, 06.03.2022 | Breakfast        | Mac N Cheese         | Michaela           |
+| Mon, 07.03.2022 |  Breakfast       | Curry        | Lucas           |
+| Tue, 08.03.2022 | Breakfast        | Älplermagronen        | Anna Lena           |
+| Wed, 09.03.2022 | Breakfast        | Chili con/ sin carne        | Henrik           |
+| Thu, 10.03.2022 | Breakfast        | Burrito        | Melanie           |
+| Fri, 11.03.2022 | Breakfast        | Leftovers        | Mara           |
+| Sat, 12.03.2022 | Breakfast        | x       | x           |
 
 # Cost
 
