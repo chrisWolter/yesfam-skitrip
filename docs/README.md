@@ -49,7 +49,7 @@ footer: Made by Chris with ❤️ for the most awesome ski trip and the best com
 | Sat, 05.03.2022 | x         | (Pasta)              | TBA           |
 | Sun, 06.03.2022 | Breakfast | Mac N Cheese         | Michaela      |
 | Mon, 07.03.2022 | Breakfast | Curry                | Lucas         |
-| Tue, 08.03.2022 | Breakfast | Älplermagronen       | Anna Lena     |
+| Tue, 08.03.2022 | Breakfast | Älplermagronen       | Anna-Lena     |
 | Wed, 09.03.2022 | Breakfast | Chili con/ sin carne | Henrik        |
 | Thu, 10.03.2022 | Breakfast | Burrito              | Melanie       |
 | Fri, 11.03.2022 | Breakfast | Leftovers            | Mara          |
