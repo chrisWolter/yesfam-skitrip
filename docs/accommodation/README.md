@@ -7,7 +7,7 @@ The Accommodation has:
 - Space for 56 People in 16 Rooms
 - Wifi
 - bedding is available
-- the free usage of the indoor swimming pool in a nearby hotel
+- (the free usage of the indoor swimming pool in a nearby hotel) -- Not possible because of Corona, but maybe its lifted again with new regulations.
 - a seperate room to dry your ski- snowboard boots
 - table-tennis in front of the house (if anyone wants to play lol)
 

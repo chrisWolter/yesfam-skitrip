@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'The yesfam ski trip!',
+  title: "The yesfam ski trip!",
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -16,9 +16,12 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/config/#head
    */
   head: [
-    ['meta', { name: 'theme-color', content: '#1a6eff' }],
-    ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
+    ["meta", { name: "theme-color", content: "#1a6eff" }],
+    ["meta", { name: "apple-mobile-web-app-capable", content: "yes" }],
+    [
+      "meta",
+      { name: "apple-mobile-web-app-status-bar-style", content: "black" },
+    ],
   ],
 
   /**
@@ -27,33 +30,37 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    logo: '/images/logo.png',
-    repo: '',
+    logo: "/images/logo.png",
+    repo: "",
     editLinks: false,
-    docsDir: '',
-    editLinkText: '',
+    docsDir: "",
+    editLinkText: "",
     lastUpdated: false,
     nav: [
-            {
-        text: 'Corona',
-        link: '/corona/'
-      },
-                  {
-        text: 'Code of Conduct',
-        link: '/code-of-conduct/'
+      {
+        text: "Corona",
+        link: "/corona/",
       },
       {
-        text: 'Organizers',
-        link: '/organizers/'
+        text: "Packing List",
+        link: "/packing-list/",
       },
       {
-        text: 'Accommodation',
-        link: '/accommodation/',
+        text: "Code of Conduct",
+        link: "/code-of-conduct/",
       },
       {
-        text: 'Skiarea',
-        link: '/skiarea/'
-      }
+        text: "Organizers",
+        link: "/organizers/",
+      },
+      {
+        text: "Accommodation",
+        link: "/accommodation/",
+      },
+      {
+        text: "Skiarea",
+        link: "/skiarea/",
+      },
     ],
     search: false,
   },
@@ -61,8 +68,5 @@ module.exports = {
   /**
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
    */
-  plugins: [
-    '@vuepress/plugin-back-to-top',
-    '@vuepress/plugin-medium-zoom',
-  ]
-}
+  plugins: ["@vuepress/plugin-back-to-top", "@vuepress/plugin-medium-zoom"],
+};

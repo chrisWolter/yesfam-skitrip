@@ -27,20 +27,21 @@ footer: Made by Chris with ❤️ for the most awesome ski trip and the best com
 **Organizer:** The trip is organised by members of the yesfam. You can find information and contact details about the organizers here: [organizers](/organizers/) \
 **Whatsapp Group:** If you have any questions feel free to ask them in the group. [Join here](https://chat.whatsapp.com/I1snqCa6e33330ESArl7Yb)
 
+**Packing List:** You can find a packing list here: [packing list](/packing-list/) \
 **Code of Conduct:** You can find our code of conduct here: [code of conduct](/code-of-conduct/)
 
 # Daily Schedule
 
-| Date            | Day Activity         | Evening Activity     | Fixed appointments | Notes                                                                   |
-| --------------- | -------------------- | -------------------- | ------------------ | ----------------------------------------------------------------------- |
-| Sat, 05.03.2022 | Travel and Arrival   |                      |                    | The accommodation opens at around 4pm                                   |
-| Sun, 06.03.2022 | Liftpass Day 1       | Apres Ski            |                    |                                                                         |
-| Mon, 07.03.2022 | Liftpass Day 2       | Game Night           |                    |                                                                         |
-| Tue, 08.03.2022 | Liftpass Day 3       | Quiz Night           |                    |                                                                         |
-| Wed, 09.03.2022 | Liftpass Day 4       | Dance Night          |                    | The 4 day pass will expire today                                        |
-| Thu, 10.03.2022 | Liftpass Day 5       | Party Night          |                    | The 5 day pass will expire today                                        |
-| Fri, 11.03.2022 | Liftpass Day 6       | Cleaning and packing |                    |                                                                         |
-| Sat, 12.03.2022 | Departure and Travel |                      |                    | We have to leave the Accommodation at 10am and it has to be swept clean |
+| Date            | Day Activity         | Evening Activity               | Fixed appointments | Notes                                                                   |
+| --------------- | -------------------- | ------------------------------ | ------------------ | ----------------------------------------------------------------------- |
+| Sat, 05.03.2022 | Travel and Arrival   | Get to know and organizational |                    | The accommodation opens at around 4pm                                   |
+| Sun, 06.03.2022 | Liftpass Day 1       | Apres Ski                      |                    |                                                                         |
+| Mon, 07.03.2022 | Liftpass Day 2       | Game Night                     |                    |                                                                         |
+| Tue, 08.03.2022 | Liftpass Day 3       | Quiz Night                     |                    |                                                                         |
+| Wed, 09.03.2022 | Liftpass Day 4       | Dance Night                    |                    | The 4 day pass will expire today                                        |
+| Thu, 10.03.2022 | Liftpass Day 5       | Party Night                    |                    | The 5 day pass will expire today                                        |
+| Fri, 11.03.2022 | Liftpass Day 6       | Cleaning and packing           |                    |                                                                         |
+| Sat, 12.03.2022 | Departure and Travel |                                |                    | We have to leave the Accommodation at 10am and it has to be swept clean |
 
 # Menu
 
@@ -60,12 +61,12 @@ footer: Made by Chris with ❤️ for the most awesome ski trip and the best com
 <span style="color:green">**Current Status:**</span>
 
 - Rental planning
-- Planning of the corona regulations in the accommodation
-- Creation of the packing list
+- Ski pass planning
+- Organize small things
 
 <span style="color:orange">**Next Step:**</span>
 
-- Ski pass planning
+- Everything done :) (we hope at least)
 
 <span style="color:#1a6eff">**To-dos:**</span>
 
@@ -80,6 +81,8 @@ footer: Made by Chris with ❤️ for the most awesome ski trip and the best com
 - Activity planning
 - Cooking groups
 - Food planning
+- Planning of the corona regulations in the accommodation
+- Creation of the packing list
 
 # Travel information
 
