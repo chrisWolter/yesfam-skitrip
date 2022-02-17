@@ -121,8 +121,8 @@ If you have any questions about this, pls contact us.**
 <span style="color:red">The final payment has to be done by the **4th of february**.</span>
 
 **Name:** Frederike Claus \
-**IBAN:** DE20 1101 0101 5938 3551 68 \
-**BIC:** SOBKDEB2XXX \
+**IBAN:** DE41 1203 0000 1065 5460 44 \
+**BIC:** BYLADEM1001 \
 **Purpose of use:** Final Payment [Your Name] \
 \
 **Amount:** The amount is calculated by means of the liftpass

@@ -36,6 +36,7 @@
 
 ## Overall Things
 
+- [ ] Health insurance abroad
 - [ ] Backpack
 - [ ] Drinking Bottle
 - [ ] Lunch Box (Recommended for the lunch bag)
