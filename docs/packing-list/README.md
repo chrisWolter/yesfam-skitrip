@@ -11,7 +11,7 @@
 - [ ] Ski-Jacket (Outer-Layer)
 - [ ] Gloves
 - [ ] Helmet
-- [ ] Googles
+- [ ] Goggles
 - [ ] Protector
 - [ ] Sunglasses
 - [ ] Sun-Block
@@ -27,7 +27,7 @@
 ## For the House
 
 - [ ] Slippers
-- [ ] Training Suit ( Comfy Clothes)
+- [ ] Comfy Clothes
 - [ ] Towel
 - [ ] Earplugs
 - [ ] Charger
@@ -40,12 +40,12 @@
 - [ ] Backpack
 - [ ] Drinking Bottle
 - [ ] Lunch Box (Recommended for the lunch bag)
-- [ ] bluetooth speaker
+- [ ] Bluetooth speaker
 
 ## Wash Bag
 
 - [ ] Shampoo/Shower Soap
-- [ ] Tootbrush
+- [ ] Toothbrush
 - [ ] Toothpaste
 - [ ] Labello
 
@@ -61,6 +61,6 @@
 ## For the Cars
 
 - [ ] Winter or all weather wheels
-- [ ] vignette
+- [ ] Vignette
 - [ ] Check of you driver with the car train and buy a ticket beforehand
 - [ ] Snow chains
