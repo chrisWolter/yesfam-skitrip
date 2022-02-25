@@ -38,8 +38,8 @@ footer: Made by Chris with ❤️ for the most awesome ski trip and the best com
 | Sun, 06.03.2022 | Liftpass Day 1       | Apres Ski                      |                    |                                                                         |
 | Mon, 07.03.2022 | Liftpass Day 2       | Game Night                     |                    |                                                                         |
 | Tue, 08.03.2022 | Liftpass Day 3       | Quiz Night                     |                    |                                                                         |
-| Wed, 09.03.2022 | Liftpass Day 4       | Dance Night                    |                    | The 4 day pass will expire today                                        |
-| Thu, 10.03.2022 | Liftpass Day 5       | Party Night                    |                    | The 5 day pass will expire today                                        |
+| Wed, 09.03.2022 | Liftpass Day 4       | Dance Night                    |                    |                                                                         |
+| Thu, 10.03.2022 | Liftpass Day 5       | Party Night                    |                    |                                                                         |
 | Fri, 11.03.2022 | Liftpass Day 6       | Cleaning and packing           |                    |                                                                         |
 | Sat, 12.03.2022 | Departure and Travel |                                |                    | We have to leave the Accommodation at 10am and it has to be swept clean |
 
