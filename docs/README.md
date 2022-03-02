@@ -25,23 +25,22 @@ footer: Made by Chris with ❤️ for the most awesome ski trip and the best com
 **Where:** Saas-Grund, Switzerland. For more information see [accommodation](/accommodation/) and [skiareas](/skiarea/) \
 **Number of Attendees:** 56 \
 **Organizer:** The trip is organised by members of the yesfam. You can find information and contact details about the organizers here: [organizers](/organizers/) \
-**Whatsapp Group:** If you have any questions feel free to ask them in the group. [Join here](https://chat.whatsapp.com/I1snqCa6e33330ESArl7Yb)
 
 **Packing List:** You can find a packing list here: [packing list](/packing-list/) \
 **Code of Conduct:** You can find our code of conduct here: [code of conduct](/code-of-conduct/)
 
 # Daily Schedule
 
-| Date            | Day Activity         | Evening Activity               | Fixed appointments | Notes                                                                   |
-| --------------- | -------------------- | ------------------------------ | ------------------ | ----------------------------------------------------------------------- |
-| Sat, 05.03.2022 | Travel and Arrival   | Get to know and organizational |                    | The accommodation opens at around 4pm                                   |
-| Sun, 06.03.2022 | Liftpass Day 1       | Apres Ski                      |                    |                                                                         |
-| Mon, 07.03.2022 | Liftpass Day 2       | Game Night                     |                    |                                                                         |
-| Tue, 08.03.2022 | Liftpass Day 3       | Quiz Night                     |                    |                                                                         |
-| Wed, 09.03.2022 | Liftpass Day 4       | Dance Night                    |                    |                                                                         |
-| Thu, 10.03.2022 | Liftpass Day 5       | Party Night                    |                    |                                                                         |
-| Fri, 11.03.2022 | Liftpass Day 6       | Cleaning and packing           |                    |                                                                         |
-| Sat, 12.03.2022 | Departure and Travel |                                |                    | We have to leave the Accommodation at 10am and it has to be swept clean |
+| Date            | Day Activity         | Evening Activity               | Fixed appointments                                               | Notes                                                                   |
+| --------------- | -------------------- | ------------------------------ | ---------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Sat, 05.03.2022 | Travel and Arrival   | Get to know and organizational |                                                                  | The accommodation opens at around 4pm                                   |
+| Sun, 06.03.2022 | Liftpass Day 1       | Apres Ski                      | Photo appointment in front of the accommodation.                 |                                                                         |
+| Mon, 07.03.2022 | Liftpass Day 2       | Game Night                     |                                                                  |                                                                         |
+| Tue, 08.03.2022 | Liftpass Day 3       | Quiz Night                     |                                                                  |                                                                         |
+| Wed, 09.03.2022 | Liftpass Day 4       | Dance Night                    | Possible day for the undie-run :) and photo termin on the slopes |                                                                         |
+| Thu, 10.03.2022 | Liftpass Day 5       | Party Night                    |                                                                  |                                                                         |
+| Fri, 11.03.2022 | Liftpass Day 6       | Cleaning and packing           |                                                                  |                                                                         |
+| Sat, 12.03.2022 | Departure and Travel |                                |                                                                  | We have to leave the Accommodation at 10am and it has to be swept clean |
 
 # Menu
 
@@ -51,7 +50,7 @@ footer: Made by Chris with ❤️ for the most awesome ski trip and the best com
 | Sun, 06.03.2022 | Breakfast | Mac N Cheese         | Michaela      |
 | Mon, 07.03.2022 | Breakfast | Curry                | Lucas         |
 | Tue, 08.03.2022 | Breakfast | Älplermagronen       | Anna-Lena     |
-| Wed, 09.03.2022 | Breakfast | Chili con/ sin carne | Henrik        |
+| Wed, 09.03.2022 | Breakfast | Chili con/ sin carne | TBA           |
 | Thu, 10.03.2022 | Breakfast | Burrito              | Melanie       |
 | Fri, 11.03.2022 | Breakfast | Leftovers            | Mara          |
 | Sat, 12.03.2022 | Breakfast | x                    | x             |
@@ -60,8 +59,6 @@ footer: Made by Chris with ❤️ for the most awesome ski trip and the best com
 
 <span style="color:green">**Current Status:**</span>
 
-- Rental planning
-- Ski pass planning
 - Organize small things
 
 <span style="color:orange">**Next Step:**</span>
@@ -69,8 +66,6 @@ footer: Made by Chris with ❤️ for the most awesome ski trip and the best com
 - Everything done :) (we hope at least)
 
 <span style="color:#1a6eff">**To-dos:**</span>
-
-- Buying food
 
 <span style="color:purple">**Already Done:**</span>
 
@@ -83,6 +78,9 @@ footer: Made by Chris with ❤️ for the most awesome ski trip and the best com
 - Food planning
 - Planning of the corona regulations in the accommodation
 - Creation of the packing list
+- Buying food
+- Rental planning
+- Ski pass planning
 
 # Travel information
 

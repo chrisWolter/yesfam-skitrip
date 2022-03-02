@@ -18,7 +18,7 @@
 
 ## Activities
 
-- [ ] Swimsuit
+- [ ] Swim wear
 - [ ] Winter shoes
 - [ ] Scarf
 - [ ] Beanie
