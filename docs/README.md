@@ -2,9 +2,9 @@
 home: true
 heroImage: "/images/logo.png"
 title: Welcome to the yesfam ski trip!
-tagline: Welcome to the yesfam ski trip! On this page you can find the current status and all the information about the ski trip. The Signup for the trip is closed, since we are booked out. But you can put your name on the waiting list.
-actionText: Signup Form →
-actionLink: https://forms.gle/wW3zqq3KjP1FDMuc6
+tagline: The first skitrip is over and it was legendary. Stay tuned for next years trip. Infos on that will come soon.
+actionText: Signup is closed
+actionLink: 
 features:
   - title: When?
     details: 05th - 12th of March 2022
@@ -24,7 +24,7 @@ footer: Made by Chris with ❤️ for the most awesome ski trip and the best com
 **When:** 05th - 12th of March 2022 \
 **Where:** Saas-Grund, Switzerland. For more information see [accommodation](/accommodation/) and [skiareas](/skiarea/) \
 **Number of Attendees:** 56 \
-**Organizer:** The trip is organised by members of the yesfam. You can find information and contact details about the organizers here: [organizers](/organizers/) \
+**Organizer:** The trip is organised by members of the yesfam. You can find information and contact details about the organizers here: [organizers](/organizers/) 
 
 **Packing List:** You can find a packing list here: [packing list](/packing-list/) \
 **Code of Conduct:** You can find our code of conduct here: [code of conduct](/code-of-conduct/)
@@ -59,11 +59,9 @@ footer: Made by Chris with ❤️ for the most awesome ski trip and the best com
 
 <span style="color:green">**Current Status:**</span>
 
-- Organize small things
+- Everything done :) (at least we hope)
 
 <span style="color:orange">**Next Step:**</span>
-
-- Everything done :) (we hope at least)
 
 <span style="color:#1a6eff">**To-dos:**</span>
 
@@ -81,6 +79,7 @@ footer: Made by Chris with ❤️ for the most awesome ski trip and the best com
 - Buying food
 - Rental planning
 - Ski pass planning
+- Organize small things
 
 # Travel information
 
@@ -118,9 +117,9 @@ If you have any questions about this, pls contact us.**
 
 <span style="color:red">The final payment has to be done by the **4th of february**.</span>
 
-**Name:** Frederike Claus \
-**IBAN:** DE41 1203 0000 1065 5460 44 \
-**BIC:** BYLADEM1001 \
+**Name:**  \
+**IBAN:**  \
+**BIC:**  \
 **Purpose of use:** Final Payment [Your Name] \
 \
 **Amount:** The amount is calculated by means of the liftpass
@@ -134,5 +133,5 @@ If you have any questions about this, pls contact us.**
 
 \
 --- \
-Bank Code: 11010101 \
-Account number: 5938355168
+Bank Code:  \
+Account number: 
